@@ -1,6 +1,6 @@
 # CS2-Anticheat-Defense (Private Project)
 
-### CS2 AntiCheat Plugin based on CounterStrikeSharp helps prevent against cheaters.
+### CS2 Anti-Cheat Plugin based on CounterStrikeSharp helps prevent against cheaters.
 
 ***Take control of your server’s integrity with our custom-built Anti-Cheat plugin, designed specifically for Counter-Strike 2.***
 ***Built using CounterStrikeSharp, our system detects and reacts to suspicious behaviors in real time:***
