@@ -77,12 +77,12 @@
   },
   "Bunnyhop": {
     "Enabled": true,
-    "Threshold": 128,
+    "Threshold": 80,
     "BanPlayer": true
   },
   "RapidFire": {
     "Enabled": true,
-    "Threshold": 3,
+    "Threshold": 5,
     "BanPlayer": true
   }
 }
