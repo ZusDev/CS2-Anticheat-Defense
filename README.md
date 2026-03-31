@@ -12,6 +12,9 @@
 
 ## About ACD
 
+<video src="bhop.mp4" controls width="600"></video>
+
+
 ```
 🎯 Aimbot Detection – Flick speed, angular velocity, crosshair lock, silent aim, triggerbot patterns.
 
