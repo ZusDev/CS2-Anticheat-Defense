@@ -12,9 +12,6 @@
 
 ## About ACD
 
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://cdn.discordapp.com/attachments/1405464668058943538/1432867655844626594/CS2_AntiCheat.png?ex=69ccfbbe&is=69cbaa3e&hm=89b8df30566f7667d3d23170f54de85795babc7436e90cb017ca3568da13de89&))](./bhop.mp4)
-
-
 ```
 🎯 Aimbot Detection – Flick speed, angular velocity, crosshair lock, silent aim, triggerbot patterns.
 
