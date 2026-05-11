@@ -44,6 +44,25 @@ Sends detailed detection logs, player statistics and evidence reports directly t
 
 ---
 
+## Detection Comparison
+
+```text
+┌────────────────────┬────────────────────┬────────────────────┐
+│        VAC         │ Other Anti-Cheats  │        ACD         │
+├────────────────────┼────────────────────┼────────────────────┤
+│ Pattern Based      │ Mostly Event Based │ Layered Detection  │
+│ Delayed Bans       │ Basic Checks       │ Real-Time Analysis │
+│ Limited Behavior   │ Partial Tracking   │ Behavior Tracking  │
+│ Easy to Adapt To   │ Bypassable Checks  │ Multi-Layer System │
+│ Focused on Pattern │ Detects Obvious    │ Detects Rage &     │
+│ Cheats             │ Cheats             │ Closet Cheaters    │
+├────────────────────┼────────────────────┼────────────────────┤
+│ Lower Accuracy     │ Medium Accuracy    │ Higher Accuracy    │
+│ Higher Delay       │ Moderate Delay     │ Faster Response    │
+│ Passive Detection  │ Reactive Detection │ Active Monitoring  │
+└────────────────────┴────────────────────┴────────────────────┘
+```
+
 ## Detection Philosophy
 
 ACD does not rely on a single detection method or simple signature checks.
