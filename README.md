@@ -4,6 +4,10 @@ Advanced anti-cheat plugin for Counter-Strike 2, built on top of CounterStrikeSh
 
 ACD is designed to detect both blatant rage cheats and advanced closet cheats through layered behavioral analysis, real-time monitoring, and engine-level detection systems.
 
+<p align="center">
+  <img src="./acdd.png" width="1000">
+</p>
+
 ---
 
 ## Requirements
@@ -44,7 +48,11 @@ Sends detailed detection logs, player statistics and evidence reports directly t
 
 ---
 
-[![Watch the video](./acdd.png)](https://www.youtube.com/watch?v=OeBPZVj7GBg)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=OeBPZVj7GBg">
+    <img src="h./acdd.png" width="850">
+  </a>
+</p>
 
 ## Detection Comparison
 
