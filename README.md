@@ -46,7 +46,6 @@ Sends detailed detection logs, player statistics and evidence reports directly t
 
 ## Detection Comparison
 
-```text
 ┌────────────────────┬────────────────────┬────────────────────┐
 │        VAC         │ Other Anti-Cheats  │        ACD         │
 ├────────────────────┼────────────────────┼────────────────────┤
@@ -61,7 +60,6 @@ Sends detailed detection logs, player statistics and evidence reports directly t
 │ Higher Delay       │ Moderate Delay     │ Faster Response    │
 │ Passive Detection  │ Reactive Detection │ Active Monitoring  │
 └────────────────────┴────────────────────┴────────────────────┘
-```
 
 ## Detection Philosophy
 
