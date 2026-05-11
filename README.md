@@ -44,6 +44,8 @@ Sends detailed detection logs, player statistics and evidence reports directly t
 
 ---
 
+[![Watch the video](./acd.jpg)](https://www.youtube.com/watch?v=OeBPZVj7GBg)
+
 ## Detection Comparison
 
 ```text
