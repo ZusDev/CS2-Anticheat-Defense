@@ -58,6 +58,10 @@ Sends detailed detection logs, player statistics and evidence reports directly t
 
 https://github.com/user-attachments/assets/75a93e58-e2c5-4bc6-8dc6-bc915a585ef7
 
+In addition to gameplay analysis, ACD includes anti-exploit and server-protection components designed to detect malicious client behavior, spam abuse, suspicious engine interactions, and other non-standard gameplay modifications. The system is actively maintained and continuously adapted for modern CS2 engine changes, ensuring compatibility with evolving cheat techniques and networking behavior.
+
+ACD focuses on optimized performance, configurable action systems, detailed logging, and optional Discord/webhook integrations for real-time server administration and evidence tracking.
+
 ## Detection Comparison
 
 ```text
@@ -76,13 +80,17 @@ https://github.com/user-attachments/assets/75a93e58-e2c5-4bc6-8dc6-bc915a585ef7
 └────────────────────┴──────────────────────┴────────────────────────┘
 ```
 
-## Detection Philosophy
+## How ACD Works
 
-ACD does not rely on a single detection method or simple signature checks.
+ACD is designed to monitor player behavior as a whole rather than relying on a single detection method. Instead of looking only for known cheat files or obvious violations, the system analyzes gameplay patterns, player actions, and in-game behavior in real time.
 
-The system combines multiple detection layers, including aim analysis, movement validation, behavioral consistency tracking, timing analysis and statistical monitoring over time.
+Unlike traditional anti-cheat systems that often rely heavily on isolated triggers or basic event checks, ACD continuously evaluates player behavior over time. Suspicious actions are not treated as immediate proof on their own. Instead, the system accumulates evidence across multiple gameplay situations and detection layers before determining whether a player is behaving unnaturally.
 
-Even if one detection layer is avoided, other systems continue analyzing player behavior simultaneously, making bypassing more difficult and unreliable compared to traditional event-based anti-cheat plugins.
+ACD also operates using real-time engine-level monitoring, allowing it to analyze gameplay directly from low-level game events and command processing. This provides deeper visibility into player behavior and allows the system to react more effectively to abnormal actions, unnatural precision, impossible consistency, and other indicators commonly associated with cheating software.
+
+Because multiple systems are always working together in parallel, bypassing one detection layer does not prevent the rest of the system from continuing to analyze player behavior. This layered approach makes advanced cheat bypassing significantly more difficult and unreliable compared to traditional event-based anti-cheat plugins.
+
+The overall goal of ACD is to maintain competitive integrity by identifying unfair gameplay advantages while remaining adaptive to modern cheat techniques and evolving CS2 engine behavior.
 
 ## ACD Official Discord
 <a href="https://discord.gg/d5uvMmUpuE"><img src="./discord.png"></a>
