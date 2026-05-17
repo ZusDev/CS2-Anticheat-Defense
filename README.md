@@ -15,6 +15,8 @@ ACD is designed to detect both blatant rage cheats and advanced closet cheats th
 - CounterStrikeSharp
 - Metamod:Source
 
+https://github.com/user-attachments/assets/dff8d23b-5c58-4f4f-a8f8-7f0bacc48103
+
 ---
 
 ## Features
