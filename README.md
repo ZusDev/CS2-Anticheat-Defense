@@ -50,6 +50,8 @@ Sends detailed detection logs, player statistics and evidence reports directly t
 
 ---
 
+https://github.com/user-attachments/assets/75a93e58-e2c5-4bc6-8dc6-bc915a585ef7
+
 ## Detection Comparison
 
 ```text
