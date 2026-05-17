@@ -2,7 +2,9 @@
 
 Advanced anti-cheat plugin for Counter-Strike 2, built on top of CounterStrikeSharp.
 
-ACD is designed to detect both blatant rage cheats and advanced closet cheats through layered behavioral analysis, real-time monitoring, and engine-level detection systems.
+ACD is designed to detect both blatant rage cheats and advanced closet cheats through layered behavioral analysis, real-time monitoring, and engine-level detection systems. Instead of relying on simple pattern checks or signature-based scans alone, ACD continuously analyzes player behavior, command input, aiming consistency, movement anomalies, and engine interaction patterns to identify suspicious activity with high accuracy.
+
+The system combines multiple independent detection layers. This allows ACD to detect everything from aggressive spinbots and aimbots to subtle aim assistance, silent aim manipulation, anti-aim exploits, bhop scripting and nickname manipulation techniques.
 
 <p align="center">
   <img src="./acdd.png" width="1000">
@@ -14,6 +16,10 @@ ACD is designed to detect both blatant rage cheats and advanced closet cheats th
 
 - CounterStrikeSharp
 - Metamod:Source
+
+---
+
+The detection architecture is built around evidence accumulation and long-term behavioral analysis rather than relying on a single suspicious action for instant detection. This approach allows the anticheat to identify advanced closet cheaters attempting to conceal their assistance through humanized settings, smoothing, randomized behavior, or subtle aim correction techniques.
 
 https://github.com/user-attachments/assets/dff8d23b-5c58-4f4f-a8f8-7f0bacc48103
 
@@ -55,20 +61,19 @@ https://github.com/user-attachments/assets/75a93e58-e2c5-4bc6-8dc6-bc915a585ef7
 ## Detection Comparison
 
 ```text
-┌────────────────────┬────────────────────┬────────────────────┐
-│        VAC         │ Other Anti-Cheats  │        ACD         │
-├────────────────────┼────────────────────┼────────────────────┤
-│ Pattern Based      │ Mostly Event Based │ Layered Detection  │
-│ Delayed Bans       │ Basic Checks       │ Real-Time Analysis │
-│ Limited Behavior   │ Partial Tracking   │ Behavior Tracking  │
-│ Easy to Adapt To   │ Bypassable Checks  │ Multi-Layer System │
-│ Focused on Pattern │ Detects Obvious    │ Detects Rage &     │
-│ Cheats             │ Cheats             │ Closet Cheaters    │
-├────────────────────┼────────────────────┼────────────────────┤
-│ Lower Accuracy     │ Medium Accuracy    │ Higher Accuracy    │
-│ Higher Delay       │ Moderate Delay     │ Faster Response    │
-│ Passive Detection  │ Reactive Detection │ Active Monitoring  │
-└────────────────────┴────────────────────┴────────────────────┘
+┌────────────────────┬──────────────────────┬────────────────────────┐
+│        VAC         │  Other Anti-Cheats   │          ACD           │
+├────────────────────┼──────────────────────┼────────────────────────┤
+│ Signature Based    │ Mostly Event Driven  │ Layered Detection      │
+│ Delayed Enforcement│ Basic Heuristics     │ Real-Time Analysis     │
+│ Limited Monitoring │ Partial Tracking     │ Deep Behavior Tracking │
+│ Predictable Logic  │ Easily Bypassed      │ Multi-Layer Security   │
+├────────────────────┼──────────────────────┼────────────────────────┤
+│ Passive Detection  │ Reactive Systems     │ Active Monitoring      │
+│ Slower Response    │ Moderate Response    │ Fast Detection Engine  │
+│                    │ Simple Validation    │ Adaptive Analysis      │
+│                    │ Short-Term Checks    │ Long-Term Analysis     │
+└────────────────────┴──────────────────────┴────────────────────────┘
 ```
 
 ## Detection Philosophy
