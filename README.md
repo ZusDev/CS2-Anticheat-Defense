@@ -65,19 +65,19 @@ ACD focuses on optimized performance, configurable action systems, detailed logg
 ## Detection Comparison
 
 ```text
-┌────────────────────┬──────────────────────┬────────────────────────┐
-│        VAC         │  Other Anti-Cheats   │          ACD           │
-├────────────────────┼──────────────────────┼────────────────────────┤
-│ Signature Based    │ Mostly Event Driven  │ Layered Detection      │
-│ Delayed Enforcement│ Basic Heuristics     │ Real-Time Analysis     │
-│ Limited Monitoring │ Partial Tracking     │ Deep Behavior Tracking │
-│ Predictable Logic  │ Easily Bypassed      │ Multi-Layer Security   │
-├────────────────────┼──────────────────────┼────────────────────────┤
-│ Passive Detection  │ Reactive Systems     │ Active Monitoring      │
-│ Slower Response    │ Moderate Response    │ Fast Detection Engine  │
-│                    │ Simple Validation    │ Adaptive Analysis      │
-│                    │ Short-Term Checks    │ Long-Term Analysis     │
-└────────────────────┴──────────────────────┴────────────────────────┘
+┌──────────────────────┬────────────────────────┐
+│  Other Anti-Cheats   │          ACD           │
+├──────────────────────┼────────────────────────┤
+│ Mostly Event Driven  │ Layered Detection      │
+│ Basic Heuristics     │ Real-Time Analysis     │
+│ Partial Tracking     │ Deep Behavior Tracking │
+│ Easily Bypassed      │ Multi-Layer Security   │
+├──────────────────────┼────────────────────────┤
+│ Reactive Systems     │ Active Monitoring      │
+│ Moderate Response    │ Fast Detection Engine  │
+│ Simple Validation    │ Adaptive Analysis      │
+│ Short-Term Checks    │ Long-Term Analysis     │
+└──────────────────────┴────────────────────────┘
 ```
 
 ## How ACD Works
