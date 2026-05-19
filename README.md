@@ -19,7 +19,9 @@ The system combines multiple independent detection layers. This allows ACD to de
 
 ---
 
-The detection architecture is built around evidence accumulation and long-term behavioral analysis rather than relying on a single suspicious action for instant detection. This approach allows the anticheat to identify advanced closet cheaters attempting to conceal their assistance through humanized settings, smoothing, randomized behavior, or subtle aim correction techniques.
+<details>
+<summary><strong>The detection architecture is built around evidence accumulation and long-term behavioral analysis rather than relying on a single suspicious action for instant detection. This approach allows the anticheat to identify advanced closet cheaters attempting to conceal their assistance through humanized settings, smoothing, randomized behavior, or subtle aim correction techniques.
+</strong></summary>
 
 https://github.com/user-attachments/assets/dff8d23b-5c58-4f4f-a8f8-7f0bacc48103
 
