@@ -4,6 +4,13 @@
 
 ACD is designed to detect both blatant rage cheats and advanced closet cheats through layered behavioral analysis, real-time monitoring, and engine-level detection systems. Instead of relying on simple pattern checks or signature-based scans alone, ACD continuously analyzes player behavior, command input, aiming consistency, movement anomalies, and engine interaction patterns to identify suspicious activity with high accuracy.
 
+<p align="center">
+  <a href="https://discord.gg/d5uvMmUpuE">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+
 > [!IMPORTANT]
 >The system combines multiple independent detection layers. This allows ACD to detect everything from aggressive spinbots and aimbots to subtle aim assistance, silent aim manipulation, anti-aim exploits, bhop scripting and nickname manipulation techniques.
 
@@ -15,8 +22,9 @@ ACD is designed to detect both blatant rage cheats and advanced closet cheats th
 
 ## Requirements
 
-- CounterStrikeSharp
-- Metamod:Source
+[![Metamod:Source](https://img.shields.io/badge/Metamod:Source-2d2d2d?logo=sourceengine)](https://www.sourcemm.net)
+
+[![CounterStrikeSharp](https://img.shields.io/badge/CounterStrikeSharp-83358F)](https://github.com/roflmuffin/CounterStrikeSharp)
 
 ---
 
