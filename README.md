@@ -1,4 +1,4 @@
-# CS2-Anticheat-Defense (Private Project)
+# CS2-Anticheat-Defense
 
 ### Advanced anti-cheat plugin for Counter-Strike 2, built on top of CounterStrikeSharp.
 
