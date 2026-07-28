@@ -93,6 +93,8 @@ https://github.com/user-attachments/assets/75a93e58-e2c5-4bc6-8dc6-bc915a585ef7
 └──────────────────────┴────────────────────────┘
 ```
 
+https://github.com/user-attachments/assets/1e23bd1f-6a3e-4dcd-a7fb-2249f1f91a7c
+
 ## How ACD Works
 
 ACD is designed to monitor player behavior as a whole rather than relying on a single detection method. Instead of looking only for known cheat files or obvious violations, the system analyzes gameplay patterns, player actions, and in-game behavior in real time.
