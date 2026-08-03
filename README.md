@@ -105,6 +105,50 @@ ACD also operates using real-time engine-level monitoring, allowing it to analyz
 
 Because multiple systems are always working together in parallel, bypassing one detection layer does not prevent the rest of the system from continuing to analyze player behavior. This layered approach makes advanced cheat bypassing significantly more difficult and unreliable compared to traditional event-based anti-cheat plugins.
 
+## FAQ
+
+<details>
+<summary><strong>Is ACD tested against real free and paid cheats?</strong></summary>
+
+Yes, ACD is tested against the most used free and paid cheats over net.
+
+</details>
+
+<details>
+<summary><strong>Can it be used in Premier or Matchmaking?</strong></summary>
+
+No, ACD is designed exclusively for community servers. It cannot be used in official CS2 matchmaking or Premier.
+
+</details>
+
+<details>
+<summary><strong>Is ACD configurable?</strong></summary>
+
+Yes. You can easily enable, disable or adjust the sensitivity of every detection module to fit your server's needs.
+
+</details>
+
+<details>
+<summary><strong>What admin systems are supported by ACD?</strong></summary>
+
+ACD supports all admin systems, even those built on different frameworks. All cheater bans are processed directly through your existing admin system.
+
+</details>
+
+<details>
+<summary><strong>Can it detect every cheat?</strong></summary>
+
+No anti-cheat can detect everything. ACD analyzes whether player behavior is too unrealistic to be legitimate. It can't catch every cheat, but catching most of them is still far better than having no protection.
+
+</details>
+
+<details>
+<summary><strong>Does it support FFA?</strong></summary>
+
+Yes, if `mp_teammates_are_enemies` is enabled, ACD automatically treats all players as enemies, matching the game's rules.
+
+</details>
+
 The overall goal of ACD is to maintain competitive integrity by identifying unfair gameplay advantages while remaining adaptive to modern cheat techniques and evolving CS2 engine behavior.
 
 ## ACD Official Discord
