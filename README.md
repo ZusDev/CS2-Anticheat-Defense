@@ -1,12 +1,14 @@
 <div align="center">
 
-<img width="96" height="96" alt="332" src="https://github.com/user-attachments/assets/34581352-3e0c-4b83-a248-2bb71fdf0e43" />
+<img width="96" height="auto" alt="332" src="https://github.com/user-attachments/assets/34581352-3e0c-4b83-a248-2bb71fdf0e43" />
   
 # CS2-Anticheat-Defense
 
-### An advanced server-side anti-cheat plugin for Counter-Strike 2, developed using CounterStrikeSharp / SwiftlyS2.
+<img width="1164" height="695" alt="accdct" src="https://github.com/user-attachments/assets/e5ae3bde-d418-425e-abe6-57ddfd918bd8" />
+An advanced server-side anti-cheat plugin for Counter-Strike 2, developed using CounterStrikeSharp / SwiftlyS2.
 
 </div>
+
 
 ACD is designed to detect both blatant rage cheats and advanced closet cheats through layered behavioral analysis, real-time monitoring and engine-level detection systems. Instead of relying on simple pattern checks or signature-based scans alone, ACD continuously analyzes player behavior, command input, aiming consistency, movement anomalies and engine interaction patterns to identify suspicious activity with high accuracy.
 
@@ -16,13 +18,12 @@ ACD is designed to detect both blatant rage cheats and advanced closet cheats th
   </a>
 </p>
 
-
-> [!IMPORTANT]
->The system combines multiple independent detection layers. This allows ACD to detect everything from aggressive spinbots and aimbots to subtle aim assistance, silent aim manipulation, anti-aim exploits, bhop scripting and nickname manipulation techniques.
-
 <p align="center">
   <img src="./acdd.png" width="1000">
 </p>
+
+> [!IMPORTANT]
+>The system combines multiple independent detection layers. This allows ACD to detect everything from aggressive spinbots and aimbots to subtle aim assistance, silent aim manipulation, anti-aim exploits, bhop scripting and nickname manipulation techniques.
 
 ---
 
