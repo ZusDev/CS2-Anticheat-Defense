@@ -1,6 +1,12 @@
+<div align="center">
+
+<img width="96" height="96" alt="332" src="https://github.com/user-attachments/assets/34581352-3e0c-4b83-a248-2bb71fdf0e43" />
+  
 # CS2-Anticheat-Defense
 
-### Advanced anti-cheat plugin for Counter-Strike 2, built on top of CounterStrikeSharp.
+### An advanced server-side anti-cheat plugin for Counter-Strike 2, developed using CounterStrikeSharp / SwiftlyS2.
+
+</div>
 
 ACD is designed to detect both blatant rage cheats and advanced closet cheats through layered behavioral analysis, real-time monitoring and engine-level detection systems. Instead of relying on simple pattern checks or signature-based scans alone, ACD continuously analyzes player behavior, command input, aiming consistency, movement anomalies and engine interaction patterns to identify suspicious activity with high accuracy.
 
