@@ -19,6 +19,7 @@ ACD is designed to detect both blatant rage cheats and advanced closet cheats th
 
 <img width="1164" height="695" alt="accdct" src="https://github.com/user-attachments/assets/e5ae3bde-d418-425e-abe6-57ddfd918bd8" />
 
+
 > [!IMPORTANT]
 >The system combines multiple independent detection layers. This allows ACD to detect everything from aggressive spinbots and aimbots to subtle aim assistance, silent aim manipulation, anti-aim exploits, bhop scripting and nickname manipulation techniques.
 
