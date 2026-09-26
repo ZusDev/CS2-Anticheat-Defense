@@ -15,6 +15,9 @@ ACD is designed to detect both blatant rage cheats and advanced closet cheats th
   <a href="https://discord.gg/d5uvMmUpuE">
     <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support_Development-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/cs4fun)
+
 </p>
 
 <img width="1164" height="695" alt="accdct" src="https://github.com/user-attachments/assets/e5ae3bde-d418-425e-abe6-57ddfd918bd8" />
