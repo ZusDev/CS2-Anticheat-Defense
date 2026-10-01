@@ -8,9 +8,6 @@ An advanced server-side anti-cheat plugin for Counter-Strike 2, developed using 
 
 </div>
 
-
-ACD is designed to detect both blatant rage cheats and advanced closet cheats through layered behavioral analysis, real-time monitoring and engine-level detection systems. Instead of relying on simple pattern checks or signature-based scans alone, ACD continuously analyzes player behavior, command input, aiming consistency, movement anomalies and engine interaction patterns to identify suspicious activity with high accuracy.
-
 <p align="center">
   <a href="https://discord.gg/d5uvMmUpuE">
     <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -22,6 +19,8 @@ ACD is designed to detect both blatant rage cheats and advanced closet cheats th
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support_Development-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/cs4fun)
 
 </div>
+
+ACD is designed to detect both blatant rage cheats and advanced closet cheats through layered behavioral analysis, real-time monitoring and engine-level detection systems. Instead of relying on simple pattern checks or signature-based scans alone, ACD continuously analyzes player behavior, command input, aiming consistency, movement anomalies and engine interaction patterns to identify suspicious activity with high accuracy.
 
 <table>
 <tr>
