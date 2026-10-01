@@ -86,6 +86,11 @@ https://github.com/user-attachments/assets/75a93e58-e2c5-4bc6-8dc6-bc915a585ef7
 > [!TIP]
 > ACD focuses on optimized performance, configurable action systems, detailed logging, and optional Discord/webhook integrations for real-time server administration and evidence tracking.
 
+<img width="734" height="402" alt="Screenshot_2359a" src="https://github.com/user-attachments/assets/297d18ec-aeaf-46bf-b398-b5c0cf40ca90" />
+
+<img width="509" height="79" alt="Screenshot_2360b" src="https://github.com/user-attachments/assets/508f8b8e-e9b5-4f28-87ca-1e0ae899285b" />
+
+
 ## Detection Comparison
 
 ```text
