@@ -23,13 +23,36 @@ ACD is designed to detect both blatant rage cheats and advanced closet cheats th
 
 </div>
 
-<img width="1164" height="695" alt="accdct" src="https://github.com/user-attachments/assets/e5ae3bde-d418-425e-abe6-57ddfd918bd8" />
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="img/aimbot.gif" width="100%" alt="CS2 AntiCheat Defense testing aimbot"><br>
+<strong>Aimbot</strong>
+</td>
+<td width="50%" align="center">
+<img src="img/spin.gif" width="100%" alt="CS2 AntiCheat Defense testing spinbot"><br>
+<strong>Spinbot</strong>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="img/bhop.gif" width="100%" alt="CS2 AntiCheat Defense testing bhop"><br>
+<strong>Bhop</strong>
+</td>
+<td width="50%" align="center">
+<img src="img/trigger.gif" width="100%" alt="CS2 AntiCheat Defense testing triggerbot"><br>
+<strong>Triggerbot</strong>
+</td>
+</tr>
+</table>
 
 
 > [!IMPORTANT]
 >The system combines multiple independent detection layers. This allows ACD to detect everything from aggressive spinbots and aimbots to subtle aim assistance, silent aim manipulation, anti-aim exploits, bhop scripting and nickname manipulation techniques.
 
 ---
+
+<img width="1164" height="695" alt="accdct" src="https://github.com/user-attachments/assets/e5ae3bde-d418-425e-abe6-57ddfd918bd8" />
 
 ## Requirements
 
@@ -41,8 +64,6 @@ ACD is designed to detect both blatant rage cheats and advanced closet cheats th
 
 > [!NOTE]
 > The detection architecture is built around evidence accumulation and long-term behavioral analysis rather than relying on a single suspicious action for instant detection. This approach allows the anticheat to identify advanced closet cheaters attempting to conceal their assistance through humanized settings, smoothing, randomized behavior, or subtle aim correction techniques.
-
-https://github.com/user-attachments/assets/dff8d23b-5c58-4f4f-a8f8-7f0bacc48103
 
 ---
 
@@ -77,11 +98,7 @@ Sends detailed detection logs, player statistics and evidence reports directly t
 
 ---
 
-https://github.com/user-attachments/assets/f9ac160b-8a6a-478d-a1db-d1d6895922ae
-
 In addition to gameplay analysis, ACD includes anti-exploit and server-protection components designed to detect malicious client behavior, spam abuse, suspicious engine interactions, and other non-standard gameplay modifications. The system is actively maintained and continuously adapted for modern CS2 engine changes, ensuring compatibility with evolving cheat techniques and networking behavior.
-
-https://github.com/user-attachments/assets/75a93e58-e2c5-4bc6-8dc6-bc915a585ef7
 
 > [!TIP]
 > ACD focuses on optimized performance, configurable action systems, detailed logging, and optional Discord/webhook integrations for real-time server administration and evidence tracking.
