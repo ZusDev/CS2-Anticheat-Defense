@@ -39,7 +39,7 @@ ACD is designed to detect both blatant rage cheats and advanced closet cheats th
 <strong>Bhop</strong>
 </td>
 <td width="50%" align="center">
-<img src="img/trigger.gif" width="100%" alt="CS2 AntiCheat Defense testing triggerbot"><br>
+<img src="img/triggerbot.gif" width="100%" alt="CS2 AntiCheat Defense testing triggerbot"><br>
 <strong>Triggerbot</strong>
 </td>
 </tr>
@@ -124,8 +124,6 @@ In addition to gameplay analysis, ACD includes anti-exploit and server-protectio
 │ Short-Term Checks    │ Long-Term Analysis     │
 └──────────────────────┴────────────────────────┘
 ```
-
-https://github.com/user-attachments/assets/1e23bd1f-6a3e-4dcd-a7fb-2249f1f91a7c
 
 ## How ACD Works
 
