@@ -68,43 +68,43 @@ ACD is designed to detect both blatant rage cheats and advanced closet cheats th
 
 ## Features
 
-### 🎯 Aimbot Detection
+### Aimbot Detection
 Detects flick speed, angular velocity, crosshair snapping, target locking and triggerbot behavior.
 
-### 🧠 Aim Pattern Analysis
+### Aim Pattern Analysis
 Tracks aiming consistency, reaction timing, accuracy anomalies and unnatural aim corrections over time.
 
-### 🔥 Silent Aim & Instant Flick Detection
+### Silent Aim & Instant Flick Detection
 Detects unrealistic instant transitions, impossible flick consistency and suspicious shot manipulation behavior.
 
-### 🌀 Anti-Aim & Spinbot Detection
+### Anti-Aim & Spinbot Detection
 Monitors abnormal view-angle + body movement behavior, fake angles and rapid spinning.
 
-### ⚡ Aim Assist Detection
+### Aim Assist Detection
 Identifies subtle aim assistance, smoothing behavior, micro-corrections and hidden assistance scripts.
 
-### 🏃 Movement Exploit Detection
+### Movement Exploit Detection
 Detects bunnyhop scripts, macro strafing, movement manipulation and unnatural acceleration patterns.
 
-### 🎯 No-Spread & Rapid Fire Detection
+### No-Spread & Rapid Fire Detection
 Identifies weapon spread manipulation, unrealistic firing consistency and rapid weapon action abuse.
 
-### 📢 Spam & Abuse Prevention
+### Spam & Abuse Prevention
 Protects against chat spam, radio spam, command abuse and disruptive player behavior.
 
-### 📤 Discord Webhook Integration
+### Discord Webhook Integration
 Sends detailed detection logs, player statistics and evidence reports directly to your moderation Discord server.
 
 ---
+
+<img width="509" height="auto" alt="Screenshot_2359a" src="https://github.com/user-attachments/assets/297d18ec-aeaf-46bf-b398-b5c0cf40ca90" />
+
+<img width="509" height="79" alt="Screenshot_2360b" src="https://github.com/user-attachments/assets/508f8b8e-e9b5-4f28-87ca-1e0ae899285b" />
 
 In addition to gameplay analysis, ACD includes anti-exploit and server-protection components designed to detect malicious client behavior, spam abuse, suspicious engine interactions, and other non-standard gameplay modifications. The system is actively maintained and continuously adapted for modern CS2 engine changes, ensuring compatibility with evolving cheat techniques and networking behavior.
 
 > [!TIP]
 > ACD focuses on optimized performance, configurable action systems, detailed logging, and optional Discord/webhook integrations for real-time server administration and evidence tracking.
-
-<img width="509" height="auto" alt="Screenshot_2359a" src="https://github.com/user-attachments/assets/297d18ec-aeaf-46bf-b398-b5c0cf40ca90" />
-
-<img width="509" height="79" alt="Screenshot_2360b" src="https://github.com/user-attachments/assets/508f8b8e-e9b5-4f28-87ca-1e0ae899285b" />
 
 
 ## Detection Comparison
