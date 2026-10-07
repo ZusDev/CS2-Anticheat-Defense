@@ -4,7 +4,7 @@
   
 # CS2-Anticheat-Defense
 
-An advanced server-side anti-cheat plugin for Counter-Strike 2, developed using CounterStrikeSharp / SwiftlyS2.
+An advanced server-side anti-cheat plugin for Counter-Strike 2, developed using Metamod / SwiftlyS2.
 
 </div>
 
@@ -57,7 +57,9 @@ ACD is designed to detect both blatant rage cheats and advanced closet cheats th
 
 [![Metamod:Source](https://img.shields.io/badge/Metamod:Source-2d2d2d?logo=sourceengine)](https://www.sourcemm.net)
 
-[![CounterStrikeSharp](https://img.shields.io/badge/CounterStrikeSharp-83358F)](https://github.com/roflmuffin/CounterStrikeSharp)
+OR
+
+SwiftlyS2
 
 ---
 
