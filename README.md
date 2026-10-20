@@ -6,6 +6,8 @@
 
 An advanced server-side anti-cheat plugin for Counter-Strike 2, developed using Metamod / SwiftlyS2.
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support_Development-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/cs4fun)
+
 </div>
 
 <p align="center">
